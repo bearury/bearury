@@ -1,7 +1,7 @@
 # 💫About Me :
 **Hi! I'm Yuri Medvedev, a Software Engineer and Web Developer from Russia.**
 
-- 👷 I’m currently doing frontend stuffs in https://img.shields.io/badge/freelance-8A2BE2
+- 👷 I’m currently doing frontend stuffs in ![](https://img.shields.io/badge/freelance-8A2BE2)
 - 💬 Talking about me, I'm a huge fan of skating skis (summer and winter) and travel across the expanses of our country.
 - 📫 How to reach me: <a href="mailto:web.js.master@gmail.com" alt="Yuri Medvedev mail">
   <img src="https://img.shields.io/badge/web.js.master@gmail.com-black?logo=gmail" title="Go To mail" alt="Yuri Medvedev mail"/>
