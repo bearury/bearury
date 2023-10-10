@@ -3,7 +3,7 @@
 
 - 👷 I’m currently doing frontend stuffs in ![](https://img.shields.io/badge/freelance-8A2BE2)
 - 💬 Talking about me, I'm a huge fan of skating skis (summer and winter) and travel across the expanses of our country.
-- 👨🏼‍🎓 [![codewars](https://www.codewars.com/users/rsschool_2afc563464eeda4b/badges/small)](https://www.codewars.com/users/rsschool_2afc563464eeda4b)
+- 👨🏼‍🎓 [![codewars](https://www.codewars.com/users/yuranius-1983/badges/small)](https://www.codewars.com/users/yuranius-1983)
 - 🚀 Priority contact with me via telegram [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Medvedev_ya)
 - 📫 How to reach me: <a href="mailto:web.js.master@gmail.com" alt="Yuri Medvedev mail">
   <img src="https://img.shields.io/badge/web.js.master@gmail.com-black?logo=gmail" title="Go To mail" alt="Yuri Medvedev mail"/>
