@@ -19,9 +19,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=webjsmaster&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=webjsmaster&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# ⚒VSCode Stats :
-
-<figure><embed src="https://wakatime.com/share/@018da915-3b6e-4c95-bd51-77acccd5c7f7/9775a9dc-50ec-4a30-8451-57ef7b174686.svg"></embed></figure>
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
