@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫 About Me :
 **Hi! I'm Yuri Medvedev, a Software Engineer and Web Developer from Russia.**
 
 - 👷 I’m currently doing frontend stuffs in [![](https://img.shields.io/badge/freelance-8A2BE2)](https://kwork.ru/user/medvedevyuri)
@@ -13,10 +13,7 @@
 </a>
 
 
-
-
-# 💻Tech Stack
-
+# 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?logo=SASS&logoColor=white) 
@@ -43,7 +40,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 
-# 📊GitHub Stats :
+# 🖌 Examples of my work :
+- [Library](https://webjsmaster.github.io/library/)
+- [Coffee House](https://webjsmaster.github.io/coffee-house/)
+- [Game Nanograms](https://webjsmaster.github.io/nanograms/) (The game is written in pure JS)
+- [Messanger API](https://github.com/webjsmaster/nestjs-websocket) (Backend - nestjs / see readme.md)
+
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=webjsmaster&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=webjsmaster&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=webjsmaster&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
