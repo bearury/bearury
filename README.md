@@ -2,9 +2,12 @@
 **Hi! I'm Yuri Medvedev, a Software Engineer and Web Developer from Russia.**
 
 - 👷 I’m currently doing frontend stuffs in ![](https://img.shields.io/badge/freelance-8A2BE2)
-- 💬 Talking about me, I'm a huge fan of skating skis (summer and winter) and travel across the expanses of our country.
-- 👨🏼‍🎓 My achievements in [![codewars](https://www.codewars.com/users/yuranius-1983/badges/small)](https://www.codewars.com/users/yuranius-1983)
-- 🚀 Priority contact with me via telegram [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Medvedev_ya)
+- 🏆 My achievements in [![codewars](https://www.codewars.com/users/yuranius-1983/badges/small)](https://www.codewars.com/users/yuranius-1983).
+- 🎓 I have the following certificates of successful completion of [The Rolling Scopes School](https://rollingscopes.com/):
+    - [Java Script](https://app.rs.school/certificate/k8yvh1j6)
+    - [React JS](https://app.rs.school/certificate/1vexy44m)
+    - [Node JS](https://app.rs.school/certificate/2l66c72v)
+- 📝 Priority contact with me via telegram [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Medvedev_ya)
 - 📫 How to reach me: <a href="mailto:web.js.master@gmail.com" alt="Yuri Medvedev mail">
   <img src="https://img.shields.io/badge/web.js.master@gmail.com-black?logo=gmail" title="Go To mail" alt="Yuri Medvedev mail"/>
 </a>
