@@ -4,7 +4,8 @@
 - 👷 I’m currently doing frontend stuffs in [![](https://img.shields.io/badge/freelance-8A2BE2)](https://kwork.ru/user/medvedevyuri)
 - 🏆 My achievements in [![codewars](https://www.codewars.com/users/yuranius-1983/badges/small)](https://www.codewars.com/users/yuranius-1983).
 - 🎓 I have the following certificates of successful completion of [![](https://img.shields.io/badge/The_Rolling_Scopes_School-fdd835)](https://rollingscopes.com/):
-    - <a href="https://app.rs.school/certificate/k8yvh1j6" target="_blank">Java Script</a>
+    - <a href="https://app.rs.school/certificate/k8yvh1j6" target="_blank">Java Script Stage#1</a>
+    - <a href="https://app.rs.school/certificate/xquelfg1" target="_blank">Java Script Stage#2</a>
     - <a href="https://app.rs.school/certificate/1vexy44m" target="_blank">ReactJS</a>
     - <a href="https://app.rs.school/certificate/2l66c72v" target="_blank">NodeJS</a>
     - <a href="https://wearecommunity.io/events/rs-angular-2024q3" target="_blank">AngularJS, in the process of ...</a>
