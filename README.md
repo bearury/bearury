@@ -43,15 +43,15 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 
 # 🖌 Examples of my work :
-- [Library](https://webjsmaster.github.io/library/)
-- [Coffee House](https://webjsmaster.github.io/coffee-house/)
-- [Game Nanograms](https://webjsmaster.github.io/nanograms/) (The game is written in pure JS)
+- [Library](https://bearury.github.io/library/)
+- [Coffee House](https://bearury.github.io/coffee-house/)
+- [Game Nanograms](https://bearury.github.io/nanograms/) (The game is written in pure JS)
 - [Messanger API](https://github.com/webjsmaster/nestjs-websocket) (Backend - nestjs / see readme.md)
 
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=webjsmaster&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=webjsmaster&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=webjsmaster&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bearury&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bearury&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bearury&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
