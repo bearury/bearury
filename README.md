@@ -8,7 +8,7 @@
     - <a href="https://app.rs.school/certificate/xquelfg1" target="_blank">Java Script Stage#2</a>
     - <a href="https://app.rs.school/certificate/1vexy44m" target="_blank">ReactJS</a>
     - <a href="https://app.rs.school/certificate/2l66c72v" target="_blank">NodeJS</a>
-    - <a href="https://wearecommunity.io/events/rs-angular-2024q3" target="_blank">AngularJS, in the process of ...</a>
+    - <a href="https://app.rs.school/certificate/u141q9by" target="_blank">Angular</a>
 - 📝 Priority contact with me via telegram [![Telegram](https://img.shields.io/badge/-Telegram-090909?logo=telegram&logoColor=27A0D9)](https://t.me/Medvedev_ya)
 - 📫 How to reach me: <a href="mailto:web.js.master@gmail.com" alt="Yuri Medvedev mail">
   <img src="https://img.shields.io/badge/web.js.master@gmail.com-black?logo=gmail" title="Go To mail" alt="Yuri Medvedev mail"/>
