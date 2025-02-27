@@ -46,5 +46,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bearury&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bearury&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 💻 LeetCode Stats:
+
+![](https://leetcard.jacoblin.cool/bearury?ext=heatmap&theme=transparent)
+
+# 🥋 CodeWars Stats:
+
+![Codewars](https://github.r2v.ch/codewars?user=yuranius-1983&stroke=%23BB432C&theme=purple_dark)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
